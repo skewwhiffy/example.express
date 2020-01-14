@@ -1,6 +1,7 @@
 # Example Service
 
 ## Starting
+`yarn install` to install dependencies.
 `yarn start` will do it.
 
 ## Config
