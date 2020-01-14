@@ -1,0 +1,9 @@
+{
+  "name": "example.express",
+  "version": "0.0.1",
+  "description": "Example express / node.js service",
+  "main": "index.js",
+  "repository": "git@github.com:skewwhiffy/example.express.git",
+  "author": "Kenny Hung <kennysubs+github@outlook.com>",
+  "license": "BSD2"
+}
