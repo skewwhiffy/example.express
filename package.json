@@ -9,7 +9,7 @@
   "author": "Kenny Hung <kennysubs+github@outlook.com>",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "js-yaml": "^3.13.1"
   }
 }
